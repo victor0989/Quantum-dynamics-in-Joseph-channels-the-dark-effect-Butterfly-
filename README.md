@@ -32,6 +32,9 @@ This project integrates advanced quantum concepts and materials, structured in p
 Joseph Channels and Junctions
 Josephson Junction and Quantum Butterfly Effect: These junctions serve as critical transition points in the system. By integrating the quantum butterfly effect, the project models the expansion and contraction of information across extra dimensions. Drawing on black hole theories, this phase explores the propagation of effects and considers encoding symbols or frequencies within those transitions.
 
+![Joseph Junction](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/JosephJuntion.png)
+
+
 # Enumerative Combinatorics in Higher-Order Topologies
 This phase uses combinatorial methods to organize connections and relationships across extra dimensions or complex topologies. By mapping multiple "paths" for information flow through these spaces, a mathematical framework emerges that supports circuit modeling and simulation.
 
