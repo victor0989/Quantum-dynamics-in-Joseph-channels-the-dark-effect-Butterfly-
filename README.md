@@ -44,6 +44,8 @@ SPICE Simulation for Superconducting Quantum Circuits: SPICE is utilized to mode
 # Quantum Circuit Design with Qiskit Metal
 Qiskit Metal and SPICE Model Documentation: Combining Qiskit Metal with SPICE allows for rigorous testing of quantum circuits in both quantum and quasi-quantum simulations. This phase establishes a strong foundation for manipulating or "decoding" distant galactic signals, exploring the potential of quantum circuits in extreme conditions.
 
+![Device Design](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/DeviceDesign.png)
+
 # FIR Filters (VHDL)
 VHDL FIR Filters for Noise Reduction: Implementing FIR filters in VHDL helps reduce noise in detecting faint signals associated with dark matter or quantum phenomena. Noise reduction is crucial for maintaining signal integrity, especially in high-precision contexts where signals are weak or distorted.
 
