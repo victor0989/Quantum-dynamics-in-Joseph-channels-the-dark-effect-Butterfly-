@@ -2,11 +2,14 @@
 Quantum dynamics in Jospeph channels. 
 Meaning: (From Ioseph, the Latin form of Greek Ἰωσήφ (Ioseph), which was from the Hebrew name יוֹסֵף (Yosef) meaning "he will add", from the root יָסַף (yasaf) meaning "to add, to increase")
 
-#Classical systems & Lyapunov exponent(Dark-Butterfly)
+![Dark Butterfly Symbolism](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/Dark.png?raw=true)
+
+*The dark butterfly symbolizes the potential decline and death of relativity theory (space-time projections) and represents the disruption and elimination of time and space as primary components. This symbol directs the focus of research toward exploring higher-dimensional spaces in the universe and quantum circuits.*
+
+
+# Classical systems & Lyapunov exponent(Dark-Butterfly)
 In a classical chaotic system, a small perturbation in initial conditions leads to an exponential divergence of trajectories, z(t) e clt z(0) . Here, one mathematical variable z denotes the distance between two
 trajectories in a phase space with respect to a norm ,and the positive real number cl is called the maximal Lyapunov exponent. (Butterfly effect explores the possibility of Quantum Chaos in other topological spaces and in the context of black holes in physics and Joseph channels and Junctions. These are descriptions for circuit and channels-bus circuitry and circuitry topology studies based on diferent researches. 
-
-"The dark butterfly symbolizes the potential decline and death of relativity theory (space-time projections) and represents the disruption and elimination of time and space as primary components. This symbol directs the focus of research toward exploring higher-dimensional spaces in the universe and quantum circuits."
  
 # Causal sets in dark holes(Structures of Gauchy domains)
 ![Cauchy Domains](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/Cauchydomains.png?raw=true)
