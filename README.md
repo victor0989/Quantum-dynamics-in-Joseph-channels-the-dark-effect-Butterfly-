@@ -29,6 +29,7 @@ like, or null, respectively.4 A global Cauchy surface in a spacetime M is a non-
 # Core Project Based on the Quantum Butterfly Effect in Chaotic Systems, Extreme Temperatures, and Quantum Research
 Overview:
 This project integrates advanced quantum concepts and materials, structured in phases that progress from theoretical foundations to simulation and experimental development. Each component contributes to an overall design aimed at exploring chaotic quantum systems, superconductivity, and dark matter detection in extreme environments.
+
 ![Qiskit metal design flow -](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/QiskitMetal.png?raw=true)
 
 
@@ -58,6 +59,9 @@ Current detection techniques offer insights into defining signal parameters and 
 
 # Symbolic Encoding in Black Hole and Galactic Signal Decoding
 Integration and Decoding of Galactic Signals: Each component functions as a "filter" for signals across dimensions or frequencies. By combining complex topologies, superconducting channels, and noise reduction filters, the design simulates how signals might travel through black holes or galaxies, revealing insights into their structure and potential messages.
+
+![EPR](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/EPR_description.png?raw=true)
+
 
 # Project Summary
 This approach enables the development of a multi-layered representation that unifies topology, quantum circuits, and dark matter detection techniques into a cohesive design. This innovative project establishes a solid foundation for further exploration in quantum physics, relativity, and advanced signal decoding.
