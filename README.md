@@ -10,6 +10,8 @@ Meaning: (From Ioseph, the Latin form of Greek Ἰωσήφ (Ioseph), which was f
 # Classical systems & Lyapunov exponent(Dark-Butterfly)
 In a classical chaotic system, a small perturbation in initial conditions leads to an exponential divergence of trajectories, z(t) e clt z(0) . Here, one mathematical variable z denotes the distance between two
 trajectories in a phase space with respect to a norm ,and the positive real number cl is called the maximal Lyapunov exponent. (Butterfly effect explores the possibility of Quantum Chaos in other topological spaces and in the context of black holes in physics and Joseph channels and Junctions. These are descriptions for circuit and channels-bus circuitry and circuitry topology studies based on diferent researches. 
+![Star Dimensions](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/Star_dimensions.png)
+
  
 # Causal sets in dark holes(Structures of Gauchy domains)
 ![Cauchy Domains](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/Cauchydomains.png?raw=true)
