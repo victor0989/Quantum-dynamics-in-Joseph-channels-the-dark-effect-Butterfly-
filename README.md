@@ -57,7 +57,13 @@ VHDL FIR Filters for Noise Reduction: Implementing FIR filters in VHDL helps red
 # Dark Matter Detection Methods
 Current detection techniques offer insights into defining signal parameters and identifying relevant frequencies for simulation. Researching open-source methods (e.g., on GitHub) provides ideas for algorithmic precision, enhancing the project’s analytical depth.
 
-# Symbolic Encoding in Black Hole and Galactic Signal Decoding
+# Algorithms Section
+
+This section focuses on the development and application of algorithms using Python, Qiskit, and VHDL to detect dark matter models. The algorithms include Greedy algorithms, dynamic programming, linear programming, and quantum algorithms, among others. These will be applied to a series of practical projects, following the principles of digital filters implemented with Python, Qiskit, and VHDL. The goal is to create a compact database and explore new signal search models based on advanced data science education (master’s level), particularly in the area of quantum signal structures with Qiskit.
+
+This work contributes to European and NASA-led research, as well as governmental organizations, focusing on detecting signals in the galaxy related to dark matter. It aims to improve the efficiency of LIDAR systems and unify the so-called Dark Butterfly Effect, which integrates new findings about black holes, quantum circuits for simulating galactic detections, cryogenic materials, FPGAs, and software solutions.
+
+# Ideas about symbolic Encoding in Black Hole and Galactic Signal Decoding
 Integration and Decoding of Galactic Signals: Each component functions as a "filter" for signals across dimensions or frequencies. By combining complex topologies, superconducting channels, and noise reduction filters, the design simulates how signals might travel through black holes or galaxies, revealing insights into their structure and potential messages.
 
 ![EPR](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/EPR_description.png?raw=true)
