@@ -28,7 +28,7 @@ like, or null, respectively.4 A global Cauchy surface in a spacetime M is a non-
 
 # Core Project Based on the Quantum Butterfly Effect in Chaotic Systems, Extreme Temperatures, and Quantum Research
 Overview:
-This project integrates advanced quantum concepts and materials, structured in phases that progress from theoretical foundations to simulation and experimental development. Each component contributes to an overall design aimed at exploring chaotic quantum systems, superconductivity, and dark matter detection in extreme environments.
+These previous ideas integrate advanced quantum concepts and materials, structured in phases that progress from theoretical foundations to simulation and experimental development. Each component contributes to an overall design aimed at exploring chaotic quantum systems, superconductivity, and dark matter detection in extreme environments.
 
 ![Qiskit metal design flow -](https://github.com/victor0989/Quantum-dynamics-in-Joseph-channels-the-dark-effect-Butterfly-/blob/main/images/Casusal_sets/QiskitMetal.png?raw=true)
 
